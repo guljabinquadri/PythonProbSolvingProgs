@@ -33,7 +33,7 @@ str = ["2", "22", "222",
        "8", "88", "888",
        "9", "99", "999", "9999"]
 
-input = "GEEKSFORGEEKS";
+input = "GULJABIN";
 print(printSequence(str, input))
 
 # This code is contributed by upendra bartwal
